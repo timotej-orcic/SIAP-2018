@@ -1,7 +1,7 @@
 # SIAP-2018
 
 Dependant python libraries: <br />
-&nbsp;&nbsp;&nbsp; pandas <br />
+- pandas
 &nbsp;&nbsp;&nbsp; numpy <br />
 &nbsp;&nbsp;&nbsp; dateutil <br />
 &nbsp;&nbsp;&nbsp; plotly <br />
